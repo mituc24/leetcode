@@ -5,7 +5,7 @@
   
   
   <!-- Typing SVG for a modern look with Vietnamese Coder Vibe -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5722;FF9800;4CAF50;03A9F4;9C27B0&center=true&vCenter=true&width=600&lines=Xin chào👋" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5722;FF9800;4CAF50;03A9F4;9C27B0&center=true&vCenter=true&width=600&lines=Hi there👋" alt="Typing SVG" /></a>
 
 </div>
 
